@@ -17,6 +17,8 @@ He escogido estos casos porque son actuales, fáciles de entender y permiten est
 
 ## Re-descubriendo la hibridación: Caso 1, Nano Banana - Cuando crear imágenes se convierte en una conversación visual
 
+<img src="./img/nano-banana.webp" alt="Nano Banana" width="300" align="center">
+
 La primera vez que uno se acerca a Nano Banana, la sensación no es la de estar usando un simple editor de imágenes y esto vamos a ver a continuación. En la versión en español de Gemini, Google presenta Nano Banana como un generador de imágenes por IA y editor de fotos, que transforma escenas, cambia el ángulo de cámara, ajustada el enfoque, remezcla imágenes y trabaja con estilos o referencias visuales.
 
 
