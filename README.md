@@ -17,7 +17,9 @@ He escogido estos casos porque son actuales, fáciles de entender y permiten est
 
 ## Re-descubriendo la hibridación: Caso 1, Nano Banana - Cuando crear imágenes se convierte en una conversación visual
 
-<img src="./img/nano-banana.webp" alt="Nano Banana" width="300" align="center">
+<p align="center">
+  <img src="./img/nano-banana.webp" alt="Nano Banana" width="300">
+</p>
 
 La primera vez que uno se acerca a Nano Banana, la sensación no es la de estar usando un simple editor de imágenes y esto vamos a ver a continuación. En la versión en español de Gemini, Google presenta Nano Banana como un generador de imágenes por IA y editor de fotos, que transforma escenas, cambia el ángulo de cámara, ajustada el enfoque, remezcla imágenes y trabaja con estilos o referencias visuales.
 
@@ -33,6 +35,10 @@ Además, Nano Banana también muestra que la interfaz se ha convertido en una ca
 Por eso Nano Banana me parece un caso muy claro de hibridación moderna. Fusiona fotografía, diseño, ilustración, edición, automatización e interfaz conversacional, y esa mezcla es una nueva forma de producción visual organizada por el software, pero dirigida por nosotros mismos.
 
 ## Re-descubriendo la hibridación: Caso 2, PlayStation VR2 - Cuando el videojuego deja de estar solo en la pantalla
+
+<p align="center">
+  <img src="./img/Psvr2.jpeg" alt="PsVr2" width="300">
+</p>
 
 PlayStation VR2 muestra la transformación del videojuego en una experiencia inmersiva donde intervienen cuerpo, espacio, mirada y percepción. La página oficial de PlayStation España describe PS VR2 como un visor con pantalla OLED, resolución de 2000 x 2040 por ojo, soporte para 4K HDR, tasas de refresco de 90 Hz y 120 Hz, campo de visión de 110 grados y sensores de seguimiento integrados. A eso se suman otras características destacadas por Sony, como el seguimiento ocular, el audio 3D y la respuesta háptica, que buscan intensificar esta sensación  inmersiva dentro del entorno virtual.
 
